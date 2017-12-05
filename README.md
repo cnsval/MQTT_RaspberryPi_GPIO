@@ -1,5 +1,5 @@
 # MQTT_RaspberryPi_GPIO
-This was made for a UPV-
+This was made for UPV-CAR Project. 2017-2018. Carlos N.
 
 IOT with MQTT and Raspberry example. Python 2.7.
 
